@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Conf Variables
-Src_dir=/nonexistent
+src_dir="/var/www"
 backup_dir="/backups"
 ret_days=7
 log_dir="/var/log/backups"
